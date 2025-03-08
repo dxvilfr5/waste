@@ -49,11 +49,11 @@
     </div>
     <app-form-preview :data="data" />
     <a
-      href="https://twitter.com/fayazara"
+      href="https://twitter.com/dxvil.fr5"
       target="_blank"
       class="absolute bottom-0 right-0 bg-white rounded-tl-lg shadow px-4 py-1 font-medium text-sm text-gray-500"
     >
-      Made by Fayaz
+      Made by dxvil
     </a>
   </div>
 </template>
@@ -78,43 +78,43 @@ const data = ref({
 
 const prefillDemoData = () => {
   data.value = {
-    n: "John Snow",
-    d: "I’m John Snow, the king in the north. I know Nothing.",
+    n: "Dxvil.fr5",
+    d: "Security is just an illusion,and I'm illusionist.",
     i: "https://i.insider.com/56743fad72f2c12a008b6cc0",
-    f: "https://www.facebook.com/john_snow",
-    t: "https://twitter.com/john_snow",
-    ig: "https://www.instagram.com/john_snow",
-    e: "mail@john_snow.cc",
-    gh: "https://github.com/john_snow",
-    tg: "https://t.me/john_snow",
-    w: "+918888888888",
-    y: "https://youtube.com/@john_snow",
-    l: "https://linkedin.com/john_snow",
+    f: "https://www.facebook.com/dxvil.fr5",
+    t: "https://twitter.com/dxvil.fr5",
+    ig: "https://www.instagram.com/dxvil.fr5",
+    e: "mail@dxvil.fr5",
+    gh: "https://github.com/dxvilfr5",
+    tg: "https://t.me/asgharfr5",
+    w: "+9133271908",
+    y: "https://youtube.com/@dxvil.fr5",
+    l: "https://linkedin.com/dxvil.fr5",
     ls: [
       {
-        l: "My Website",
-        i: "ph:globe-duotone",
-        u: "https://example.com",
+        
+      
+    
       },
       {
-        l: "Amazon wishlist",
-        i: "ant-design:amazon-outlined",
-        u: "https://amazon.in",
+        
+      
+  
       },
       {
-        l: "React JS course",
-        i: "grommet-icons:reactjs",
-        u: "https://reactjs.org/",
+      
+      
+      
       },
       {
-        l: "Donate for our cause",
-        i: "iconoir:donate",
-        u: "https://who.int",
+      
+      
+  
       },
       {
-        l: "Download my resume",
-        i: "ph:file-pdf",
-        u: "https://google.com",
+      
+        
+  
       },
     ],
   };
